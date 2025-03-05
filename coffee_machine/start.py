@@ -1,7 +1,4 @@
 import sys
-
-# import utils
-# import menu
 from . import utils
 from . import menu
 from time import sleep
